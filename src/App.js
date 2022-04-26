@@ -8,7 +8,7 @@ import {
 import {VerifiedOtp} from './success'
 
 function App() {
-//  console.log(process.env.REACT_APP_KEY)
+
   return (
     <div>
       <Router>
